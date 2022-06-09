@@ -1,0 +1,6 @@
+desc=MEGA Raid SAS Status
+category=hardware
+version=1.0
+longdesc=Check the status of Mega RAID SAS drives
+os_support=*-linux freebsd macos
+depends=1.0

@@ -1,0 +1,7 @@
+index_title=Mega RAID SAS Status
+index_ecmd=The SMART control command $1 was not found on your system, or is not set correctly in the <a href='$2'>module configuration</a>. It must be installed before this module can be used.
+index_ecmd2=The command $1 does not appear to be the SMART control command. It must be set correctly in the <a href='$2'>module configuration</a> before this module can be used.
+index_version=version $1
+index_model=Model: $1
+
+__norefs=1
